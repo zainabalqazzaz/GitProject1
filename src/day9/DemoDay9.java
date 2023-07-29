@@ -7,4 +7,9 @@ public static void main(String[] args) {
 	public static void getInfo(){
 		System.out.println("my name is zainab");
 	}
+public static void addInfo() {
+	System.out.println("****");
+
+
+}
 }
