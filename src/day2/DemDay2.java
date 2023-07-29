@@ -2,6 +2,7 @@ package day2;
 
 public class DemDay2 {
 public static void main(String[] args) {
+	System.out.println("zainab..");
 	System.out.println("test");
 	
 	
